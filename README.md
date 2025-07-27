@@ -62,3 +62,7 @@ python fetch_transactions.py
 python feature_engineering.py
 python score_wallets.py
 
+> ⚠️ Note:
+> The `fetch_transactions.py` script is included for completeness, but currently does **not** fetch live data from the Compound V2 subgraph as the data endpoint is deprecated or inaccessible.
+>
+> For the purpose of this assignment, the `transactions.csv` has been manually created using simulated or sample data derived from wallet addresses. You can proceed with `feature_engineering.py` and `score_wallets.py` using this file.
