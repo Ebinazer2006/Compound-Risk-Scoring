@@ -1,4 +1,4 @@
-# Compound V2 Wallet Risk Scoring — Assignment Round 2
+# Compound V2 Wallet Risk Scoring 
 
 ## Overview
 
